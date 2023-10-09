@@ -15,6 +15,9 @@
 ##   This will handle all files NOT defined below.
 *                 text=auto
 
+## by rhe
+* text eol=lf
+
 # Source code
 *.bash            text eol=lf
 *.bat             text eol=crlf
